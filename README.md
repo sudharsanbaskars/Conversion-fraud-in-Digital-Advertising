@@ -1,8 +1,10 @@
 # Conversion-fraud-in-Digital-Advertising
+This repository contains a notebook and datasets which I have created for a particular online Machine Learning hackathon.
+I have got an accuray around 89.8901.
 
+### About Hackathon
 This is a Virtual Machine Learning Hackathon conducted by code Gladiators 2021 presented by cognizant.
-This repository contains a notebook which we created for this particular hackathon.
-We have got an accuray about 89.8901
+This hackathon is to multi-categorize items with high precision. NLP is a domain which is so old but still too much to explore. WIth this hackathon we want to identify potential solutions that have the scalability as well as the performance required for a production system. How easily deployable is the solution is a plus.
 
 ### About Problem Statement
 Digital Advertising is changing at a rapid pace with a huge increase in digital audience. At the same time, the digital advertising success metric is shifting from audience volume (eg. Impression count) to conversions (eg. lead submissions) as the success metric. This requires higher transparency and control on the conversions.
