@@ -1,5 +1,5 @@
 # Conversion-fraud-in-Digital-Advertising
-This repository contains a notebook and datasets which I have created for a particular online Machine Learning hackathon.
+This repository contains a notebook and datasets which I have created for a particular Virtual Machine Learning hackathon.
 I have got an accuray around 89.8901.
 
 ### About Hackathon
